@@ -20,7 +20,7 @@ I'm a Senior DevOps Engineer focused on building reliable cloud platforms and de
 
 Explore my work and experience:
 
-[View my DevOps portfolio](YOUR_PORTFOLIO_URL)
+[View my DevOps portfolio][(YOUR_PORTFOLIO_URL)(https://github.com/DanielJ884/Portfolio/blob/main/portf.html)]
 
 ## Connect with me
 
