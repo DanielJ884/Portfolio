@@ -27,7 +27,7 @@ I'm a Senior DevOps Engineer focused on building reliable cloud platforms, Kuber
 
 Explore my work, experience, projects, and technical achievements:
 
-[View my DevOps portfolio](https://github.com/DanielJ884/Portfolio/blob/main/index.html)
+[View my DevOps portfolio](https://danielj884.github.io/Portfolio/)
 
 ## Featured achievements
 
